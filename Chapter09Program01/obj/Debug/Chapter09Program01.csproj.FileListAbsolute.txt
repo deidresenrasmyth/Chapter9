@@ -1,0 +1,10 @@
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.csprojAssemblyReference.cache
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.frmMain.resources
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.Properties.Resources.resources
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.csproj.GenerateResource.cache
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.csproj.CoreCompileInputs.cache
+D:\IBT\C#\Chapter09Program01\bin\Debug\Chapter09Program01.exe.config
+D:\IBT\C#\Chapter09Program01\bin\Debug\Chapter09Program01.exe
+D:\IBT\C#\Chapter09Program01\bin\Debug\Chapter09Program01.pdb
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.exe
+D:\IBT\C#\Chapter09Program01\obj\Debug\Chapter09Program01.pdb
